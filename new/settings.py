@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'NotesSharingProject.urls'
+ROOT_URLCONF = 'new.urls'
 
 TEMPLATES = [
     {
